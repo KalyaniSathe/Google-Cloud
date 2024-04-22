@@ -1,0 +1,1 @@
+print("Google Cloud Platform");
